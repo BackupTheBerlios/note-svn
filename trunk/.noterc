@@ -1,0 +1,7 @@
+[general]
+dbtype = dbhash
+dbfilename = .notedb
+prompt = note> 
+time_format = %Y.%m.%d %H:%M:%S
+note_format = [ %(timestamp)s ]\n%(lp)s. %(note)s\n
+histfile = .notehist
