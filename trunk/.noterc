@@ -1,3 +1,4 @@
+# $Id$
 [general]
 dbtype = dbhash
 dbfilename = .notedb
